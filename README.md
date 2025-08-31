@@ -19,7 +19,7 @@ This repository contains implementations of common **data structures** in the C 
 
 ## Compilation & Execution
 Edit the path in all required places in the makefile.
-Compile using the command: "make FN=<filename>.
-A debug file will be created in /ds/bin/debug/<filename>.
-A release file will be created in /ds/bin/release/<filename>.
+Compile using the command: "make FN=filename.
+A debug file will be created in /ds/bin/debug/filename.
+A release file will be created in /ds/bin/release/filename.
 
