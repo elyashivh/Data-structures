@@ -10,9 +10,9 @@ This repository contains implementations of common **data structures** in the C 
 - **hash_table** - Hash Table with Insert, Find, Remove operations  
 - **heap** - Heap (Min/Max Heap implementation)  
 - **linked_list_ex** - Linked List exercises and extensions  
-- **pqueue** - Priority Queue (commonly implemented using a Heap)  
+- **pqueue** - Priority Queue (implemented using a Heap)  
 - **queue** - Queue with Enqueue/Dequeue operations  
-- **sdll** - Additional/extended implementation of a Doubly Linked List  
+- **sdll** - Sortded Doubly Linked List  
 - **singly_linked_list** - Singly Linked List  
 - **stack** - Stack with Push/Pop/Peek operations  
 - **vector** - Dynamic Array (Vector)  
