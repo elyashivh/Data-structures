@@ -1,0 +1,16 @@
+# Ignore all
+*
+
+# Unignore directories
+!*/
+
+#Unignored source code files
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.tpp
+!*.sh
+!*.md
+!*.gitignore
+!*makefile*
